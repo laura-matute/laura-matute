@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"bsa",
+				"background-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"t",
+				"tfoot\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"core",
+				"correo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n<title>Ejercicios de Diseño Wed II</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"css/tabla.css\">\n</head>\n<body>\n<div id=\"encabezado\">\n<div id=\"logo\">\n\t<img src=\"img/logo.jpg\" class=\"imagen\">\n\t<h2>Instituto Hondureno de Educacion por Radio/h2\n</div>\n<div >\n<nav>\n<ul class=\"menu\">\n<li><a href=\"\">Semana I </a>\n<ul>\n<li><a href=\"Tabla Sencilla.htlm>Tabla Sencilla</a></li>\n<li><a href\"Estilo tabla.html\">Estilo de tabla</a></li>\n<li><a href=\"Tabla con estilo.html\">Tabla con Estilo</a></li>\n</ul>\n</li>\n<li><a href=\"\">Semana II </a>\n<ul>\n<li><a href=\"Tabla.html\">Tabla con Estilo</a></li>\n<li><a href=\"juego.html\">Juego</a></li>\n<li><a href=\"ganaste.html\">Ganaste</a></li>\n<li><a href=\"ganaste.html\">Ganaste</a></li\n</ul>\n</li>\n<li><a href=\"\">Semana III</a>\n<ul>\n<li><a href=\"mapa.html\">Mapa</a></li>\n<li><a href=\"\">Formulario</a></li>\n<li><a herf=\"\">Sub ltem III</a></li>\n<li><a href=\"\">Sub item IV </a></li>\n</ul>\n</li>\n<li><a href=\"\">Semana IV </a>\n<ul>\n<li><a href=\"\">Sub ltem I</a></li>\n<li><a href=\"\">Sub ltem II</a></li>\n<li><a href=\"\">Sub ltem III</a></li>\n<li><a href=\"\">Sub ltem V</a></li>\n</ul>\n</li>\n<li><a herf=\"\">Semana V </a>\n<ul>\n<li><a href=\"\">Sub ltem I</a></li>\n<li><a href=\"\">Sub ltem II</a></li>\n<li><a href=\"\">Sub ltem III</a></li>\n<li><a href=\"\">Sub ltem IV</a></li>\n</ul>\n</li>\n</ul>\n</nav>\n</div>\n</div>\n</body>\n</html>",
+			"file": "/C/Users/Osmar/Desktop/diseno wed 2/SEMANA 1 2 3.HTML",
+			"file_size": 1439,
+			"file_write_time": 132719016215980986,
+			"settings":
+			{
+				"buffer_size": 1379,
+				"line_ending": "Windows",
+				"name": "SEMANA 1 2 3.HTML"
+			}
+		},
+		{
+			"contents": "<div id=\"formulario\">\n<center>\n<h1>Formulario de Registo</h1>\n<form action=\"\"method=\"get\">\n<p>\n<label for=\"nombre\">Nombre:</label> <input type=\"text\" name=\"nombre\" id=\"nombre\" maxlength=\"50\" />\n</p>\n<p>\nSexo: <input type=\"radio\" name=\"sexo\" id=\"sexo\" id=\"sexo-h\" value=\"h\" /> <label for=\"sexo-h\">hombre</label> <input type=\"radio\" name=\"sexo\" id=\"sexo-m\" value=\"m\" /> <label for=\"sexo-m\">mujer</label>\n</p>\n<p>\n<label for=\"correo\">Coreo=</label> <input type=\"text\" name=\"correo\" id=\"correo\" maxlength=\"100\" />\n</p>\n<p>\n<label for=\"poblacion\">Poblacion:</label>\n<select name=\"poblacion\" id=\"poblacion\">\n<option>Tegucigalpa D.C.</option>\n<option>San Pedro Sula</option>\n<option>Comayagua</option>\n<option>La Ceiba</option>\n</select>\n</p>\n\n<p><label for=\"descripcion\">Descripcion:</label>\n<textarea name=\"descripcion\" id=\"descripcion\" rows=\"6\" cols=\"60\"></textarea>\n</p>\n<p>\n<input type=\"checkbox\" name=\"info\" id=\"info\" checked=\"checked\" /> <label for=\"info\">Deseo recibir informacion sobre novedades y ofertas</label>\n</p>\n<p>\n<input type=\"checkbox\" name=\"condiciones id=\"condiciones\" /> <label for=\"condiciones\"> Declaro haber leido y aceptar las condiciones generales del programa y la normativa de proteccion de datos</label>\n</p>\n<p>\n<input type=\"submit\" value=\"Enviar\"/>\n</p>/\n<P>\n</form>\n</center>\n</body>\n</html>\n",
+			"file": "/C/Users/Osmar/Desktop/diseno wed 2/FORMULARIO.HTML",
+			"file_size": 1358,
+			"file_write_time": 132719012226505642,
+			"settings":
+			{
+				"buffer_size": 1318,
+				"line_ending": "Windows",
+				"name": "FORMULARIO.HTML"
+			}
+		},
+		{
+			"contents": "<div id=\"centro\">\n<center>\n<h1>Ganaste el juego!!!!!</h1>\n<img src=\"img/gano.gif\" width=\"300px\" height=\"300px\">\n<p>\n\tDa clic en el siguiente link para jugar de nuevo\n\t<a href=\"juego.html\">Click aqui\n\t</a>\n</p>\n</center>\n</div>\n</body>\n</html>",
+			"file": "/C/Users/Osmar/Desktop/diseno wed 2/GANASTE.HTML",
+			"file_size": 254,
+			"file_write_time": 132719013706414321,
+			"settings":
+			{
+				"buffer_size": 242,
+				"line_ending": "Windows",
+				"name": "GANASTE.HTML"
+			}
+		},
+		{
+			"file": "TABLA CSS.HTML",
+			"settings":
+			{
+				"buffer_size": 2374,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "TABLA.CSS"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install Package",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Osmar/Desktop/diseno wed 2/css/TABLA CSS.HTML",
+		"/C/Users/Osmar/Desktop/diseno wed 2/TABLA CSS.HTML",
+		"/C/Users/Osmar/Desktop/diseno wed 2/ESTILO DE TABLA.HTML",
+		"/C/Users/Osmar/Desktop/diseno wed 2/TABLA SENCILLA.HTML",
+		"/C/Users/Osmar/Desktop/diseno wed 2/JUEGO.HTML",
+		"/C/Users/Osmar/Desktop/diseno wed 2/TABLA CON ESTILO.HTML",
+		"/C/Users/Osmar/Downloads/Sublime_Text_Build_3211_Setup.exe"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Osmar/Desktop/diseno wed 2/SEMANA 1 2 3.HTML",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_name": "SEMANA 1 2 3.HTML",
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Osmar/Desktop/diseno wed 2/FORMULARIO.HTML",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "FORMULARIO.HTML",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Osmar/Desktop/diseno wed 2/GANASTE.HTML",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"auto_name": "GANASTE.HTML",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "TABLA CSS.HTML",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2178,
+								2178
+							]
+						],
+						"settings":
+						{
+							"auto_name": "TABLA.CSS",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "diseno wed.sublime-project",
+	"replace":
+	{
+		"height": 95.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
